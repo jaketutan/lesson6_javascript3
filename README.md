@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 7, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jake Tutan)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we used DOM within our javascript code in order to create a photo gallery with arrows and the option to display more than additional images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/jaketutan/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the basics of the DOM, and how to access certain parts of code using the getElementById with childNodes, previousSibling and nextSibling, etc. 
+2. I learned how to manipulate the DOM using innerHTML, removeChild, etc.
+3. I learned how to make webpages interactive using variable indexes.
